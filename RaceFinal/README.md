@@ -14,7 +14,7 @@ pip install pygame
 
 ## Запуск
 
-python race.py
+python Race3.py
 
 ## Скриншоты
 ![Меню](Screenshots/Screen1.png) 

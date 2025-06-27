@@ -20,4 +20,4 @@ python race.py
 ![Меню](Screenshots/Screen1.png) 
 ![Выбор трассы](Screenshots/Screen2.png)
 ![Геймплей](Screenshots/Screen3.png)
-![Поражение](Screenshots/Screen4.png) 
+![Поражение](Screenshots/Srceen4.png) 
